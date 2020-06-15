@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: liqiang
+Build-Jdk: 1.8.0_45
+Implementation-Title: spring-boot-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lmq.demo
+Main-Class: ${start-class}
+
